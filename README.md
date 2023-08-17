@@ -1,1 +1,1 @@
-# Snake-Water-Gun-Game
+# Water-Snake-Gun-Game
